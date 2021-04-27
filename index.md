@@ -6,3 +6,6 @@ I make scratch projects that are kinda kool. See what I did there, K instead of 
 ## How I am doing...
 4/24/21:
 I'm fine. Released the site, and bored! Also made a scratch account... but I used to play scratch so I know how to code in it. I hope to make some good projects.
+
+4/27/21:
+I am making a scratch game, and I think it is quite good! I am also developing some other stuff. Playin games, you know the drill.
